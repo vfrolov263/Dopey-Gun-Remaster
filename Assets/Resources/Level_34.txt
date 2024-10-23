@@ -1,0 +1,30 @@
+0#######################################
+0#ddddddddddddddddddddddddddddddddddddd#
+0#                                     #
+##                                     #
+#                                      #
+# r                             l      #
+#  r                             l     #
+## dr                             l    #
+0#  dr                             l   #
+0#   dr                             l  #
+0#    dr                       r    # ##
+0#     dr                        r  #dd#
+0#      dr                      r   #  #
+0# u     dr                     r  #   #
+0#u u     dr                   r   # # #
+0#   u     dr                  r  #  # #
+0#    u     dr                r   # #  #
+0#     u     dr               r  #  #  #
+0#      u     dr             r   #  #  #
+0#       u     dr            r  #  #   #
+0#        u     dr          r   #  #   #
+0#         u     dr        r   #   #   #
+0#          u     dr       r  #d  #    #
+0#           u     dr      r  #  #     #
+0#            u     dr    r   #  #     #
+0#             u     dr  #r  ##  #f    #
+0#              u      r   #p#d  #     #
+0#               u         ###   #     #
+0#                u             u#uuuuu#
+0#######################################

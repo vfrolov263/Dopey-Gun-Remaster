@@ -1,0 +1,2 @@
+Build path: C:/Users/Vladimir/Dopey Gun Remaster/Builds/Build15
+Build number: 15
